@@ -1,1 +1,1 @@
-# it-park-dit-and-github
+# it-park-git-and-github
